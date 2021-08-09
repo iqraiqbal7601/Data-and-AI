@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workspaces_dev_uks_ai_dataplatform_name": {
+            "value": null
+        },
+        "storageaccounts_devuksstordataplatform_externalid": {
+            "value": null
+        },
+        "vaults_dev_uks_akv_dataplatform_externalid": {
+            "value": null
+        },
+        "components_dev_uks_appins_dataplatform_externalid": {
+            "value": null
+        }
+    }
+}
